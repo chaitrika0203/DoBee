@@ -1,3 +1,47 @@
+🐝 DoBee — A Honeybee-Inspired To-Do List App
+
+Stay productive, stay buzzing!
+DoBee is a modern, interactive to-do list app inspired by honeybees — efficient, cheerful, and always getting things done.
+Built with React, Bootstrap, and Firebase, DoBee helps you manage your daily tasks with a beautiful yellow-black-white bee aesthetic.
+
+✨ Features
+
+✅ Add, edit, delete, and filter your tasks easily
+
+💾 Auto-save tasks using localStorage or Firebase Firestore
+
+🎨 A soothing pastel butter-yellow UI inspired by honeybees
+
+🧭 Responsive design (works on mobile, tablet, and desktop)
+
+⚡ Built with React + Bootstrap 5 for a smooth interactive experience
+
+❤️ A footer that reminds you: Made with love for you by DoBee
+
+🧰 Tech Stack
+Frontend	React (Vite or CRA)
+Styling	Bootstrap 5 + Custom CSS
+Persistence	LocalStorage (default) / Firebase Firestore (optional)
+Language	JavaScript (ES6+)
+Design	Pastel butter-yellow theme inspired by honeybees 🐝
+
+⚙️ Installation & Setup
+1. Clone the repository
+git clone https://github.com/your-username/dobee.git
+cd dobee
+
+2. Install dependencies
+npm install
+
+3. Run the app
+npm run dev
+
+🐝 Credits
+
+Designed & developed by Sri Chaitrika
+Built with ❤️ and a lot of 🍯
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
