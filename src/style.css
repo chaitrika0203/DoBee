@@ -1,0 +1,52 @@
+:root {
+  --bee-yellow: #ffd24c;
+  --bee-black: #222;
+  --bee-white: #fff;
+}
+
+body {
+  background-color: #fff3b0; /* muted pastel butter yellow */
+  color: var(--bee-black);
+  font-family: "Segoe UI", Roboto, sans-serif;
+}
+
+
+.bee-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, var(--bee-yellow), #ffc73d);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  border: 3px solid var(--bee-black);
+  color: var(--bee-black);
+}
+
+.card {
+  border-radius: 14px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.list-group-item-success {
+  background: linear-gradient(
+    90deg,
+    rgba(255, 226, 153, 0.4),
+    rgba(255, 249, 230, 0.6)
+  );
+}
+
+.form-control:focus {
+  box-shadow: 0 0 0 0.15rem rgba(255, 194, 0, 0.25);
+  border-color: #ffbf00;
+}
+
+.btn-primary {
+  background: #ffbf00;
+  border-color: #ffbf00;
+}
+.btn-primary:hover {
+  background: #f0ad00;
+}
