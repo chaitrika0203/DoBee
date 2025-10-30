@@ -21,13 +21,12 @@ Built with React, Bootstrap, and Firebase, DoBee helps you manage your daily tas
 🧰 Tech Stack
 Frontend	React (Vite or CRA)
 Styling	Bootstrap 5 + Custom CSS
-Persistence	LocalStorage (default) / Firebase Firestore (optional)
 Language	JavaScript (ES6+)
 Design	Pastel butter-yellow theme inspired by honeybees 🐝
 
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/dobee.git
+git clone https://github.com/chaitrika0203/dobee.git
 cd dobee
 
 2. Install dependencies
